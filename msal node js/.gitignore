@@ -1,0 +1,5 @@
+{
+node_modules/
+*.env
+msal-config.js
+}
