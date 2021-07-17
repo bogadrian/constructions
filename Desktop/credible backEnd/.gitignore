@@ -1,0 +1,9 @@
+{
+node_modules/
+*.env
+msal-config.js
+.vscode/
+.eslintrc.json
+.git/
+.idea/
+}
