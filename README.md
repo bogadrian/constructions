@@ -6,3 +6,15 @@ Notes:
 
 I would use vistualization if the list of companies would be big;
 Maybe I would paginate the list in backend if it was very big;
+
+cd construction-frontend
+install:
+yarn
+run:
+yarn start
+
+cd construction-backend
+install:
+yarn
+run:
+yarn start
