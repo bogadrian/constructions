@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Mario Constructions",
+    "logo": "https://cdn.pixabay.com/photo/2019/02/06/16/32/architect-3979490__480.jpg",
+    "speciality": "Plumbing",
+    "city": "Rome"
+  },
+  {
+    "name": "Escavetor rls",
+    "logo": "https://cdn.pixabay.com/photo/2015/07/28/20/55/tools-864983__340.jpg",
+    "speciality": "Excavation",
+    "city": "Georgia"
+  },
+  {
+    "name": "Pipe company",
+    "logo": "https://cdn.pixabay.com/photo/2018/09/25/23/40/cranes-3703469__340.jpg",
+    "speciality": "Piping",
+    "city": "California"
+  },
+  {
+    "name": "Sonic Inc",
+    "logo": "https://cdn.pixabay.com/photo/2018/01/20/08/01/craftsmen-3094035__340.jpg",
+    "speciality": "Electrical",
+    "city": "New York"
+  },
+  {
+    "name": "International softwares",
+    "logo": "https://cdn.pixabay.com/photo/2016/10/06/17/28/architecture-1719526__340.jpg",
+    "speciality": "Constructions",
+    "city": "Budapest"
+  },
+  {
+    "name": "INC Constructions",
+    "logo": "https://cdn.pixabay.com/photo/2016/10/12/23/23/mining-excavator-1736293__340.jpg",
+    "speciality": "Architecture",
+    "city": "London"
+  },
+  {
+    "name": "Buidings SRL",
+    "logo": "https://cdn.pixabay.com/photo/2012/07/06/20/23/excavator-51665__340.jpg",
+    "speciality": "Architecture",
+    "city": "London"
+  },
+  {
+    "name": "New Company C",
+    "logo": "https://cdn.pixabay.com/photo/2016/02/01/21/15/excavator-1174428__340.jpg",
+    "speciality": "Piping",
+    "city": "London"
+  },
+  {
+    "name": "Tomorrow Buildings",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/24/20/30/architecture-1857175__340.jpg",
+    "speciality": "Electrical",
+    "city": "London"
+  },
+  {
+    "name": "Do It all Constructions",
+    "logo": "https://cdn.pixabay.com/photo/2017/04/02/09/08/bulldozer-2195329__340.jpg",
+    "speciality": "Excavation",
+    "city": "Paris"
+  },
+  {
+    "name": "The New World INC",
+    "logo": "https://cdn.pixabay.com/photo/2012/02/22/20/02/tools-15539__340.jpg",
+    "speciality": "Architecture",
+    "city": "Hamburg"
+  },
+  {
+    "name": "Roads SRL",
+    "logo": "https://cdn.pixabay.com/photo/2018/05/18/22/33/construction-machine-3412240__480.jpg",
+    "speciality": "Constructions",
+    "city": "Strasbourg"
+  },
+  {
+    "name": "Consortium Architect",
+    "logo": "https://cdn.pixabay.com/photo/2016/02/20/17/43/excavator-1212472__480.jpg",
+    "speciality": "Plumbing",
+    "city": "Hale"
+  },
+  {
+    "name": "The Architecture Backbone",
+    "logo": "https://cdn.pixabay.com/photo/2014/09/13/21/46/milling-444493__480.jpg",
+    "speciality": "Architecture",
+    "city": "Berlin"
+  },
+  {
+    "name": "Ruma Gmbh",
+    "logo": "https://cdn.pixabay.com/photo/2015/10/06/18/26/eiffel-tower-975004__480.jpg",
+    "speciality": "Constructions",
+    "city": "London"
+  },
+  {
+    "name": "Clean The Sky INC",
+    "logo": "https://cdn.pixabay.com/photo/2015/12/06/18/02/architecture-1079806__480.jpg",
+    "speciality": "Architecture",
+    "city": "Frankfurt"
+  },
+  {
+    "name": "Bridges Holding",
+    "logo": "https://cdn.pixabay.com/photo/2018/06/21/11/19/architecture-3488306__480.jpg",
+    "speciality": "Piping",
+    "city": "Paris"
+  },
+  {
+    "name": "Human Architect",
+    "logo": "https://cdn.pixabay.com/photo/2017/05/05/15/06/architecture-2287327__480.jpg",
+    "speciality": "Excavation",
+    "city": "Milan"
+  },
+  {
+    "name": "Limits Buildings Gmbh",
+    "logo": "https://cdn.pixabay.com/photo/2020/01/20/20/58/building-4781384__480.jpg",
+    "speciality": "Plumbing",
+    "city": "Koln"
+  },
+  {
+    "name": "New Hamburg Constructions",
+    "logo": "https://cdn.pixabay.com/photo/2017/05/01/13/01/vehicle-2275456__480.jpg",
+    "speciality": "Constructions",
+    "city": "Hamburg"
+  },
+  {
+    "name": "Buildings Gmbh",
+    "logo": "https://cdn.pixabay.com/photo/2018/01/27/22/56/industry-3112436__480.jpg",
+    "speciality": "Constructions",
+    "city": "Munchen"
+  },
+  {
+    "name": "Sky Scrapper INC",
+    "logo": "https://cdn.pixabay.com/photo/2018/01/20/07/19/tallest-3093955__480.jpg",
+    "speciality": "Architecture",
+    "city": "Berlin"
+  }
+]

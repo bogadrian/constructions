@@ -1,0 +1,17 @@
+.card_container {
+  width: 200px;
+  height: 250px;
+  border: 1px solid rgb(196, 170, 170);
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.company_name {
+  height: 20px;
+  padding: 2px;
+  margin-bottom: 50px;
+}
